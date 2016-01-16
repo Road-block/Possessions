@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: Possessions 2.0.2
+## Notes: AddOn to keep track of all of your items, by Oystein (updated by Kudane)
+## OptionalDeps: myAddOns, EnhTooltip
+## SavedVariables: PossessionsData
+Possessions.xml
+
+
